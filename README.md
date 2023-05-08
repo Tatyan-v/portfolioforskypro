@@ -24,6 +24,7 @@
 презентация с результатами исследования. 
        
 [_Ссылка на проект_](https://github.com/Tatyan-v/portfolioforskypro/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.xlsx)
+
 [_Ссылка на презентацию_     ](https://github.com/Tatyan-v/portfolioforskypro/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.pptx)
 
 **Выводы по проекту:**
